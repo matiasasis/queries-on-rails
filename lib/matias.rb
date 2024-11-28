@@ -1,8 +1,7 @@
 # frozen_string_literal: true
 
-require_relative "matias/version"
-
 class Matias
+  VERSION = "0.1.0"
   def self.is
     'Awesome!'
   end
