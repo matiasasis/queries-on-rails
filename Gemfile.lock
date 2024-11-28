@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    active_query (0.1.0)
+    active-query (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -12,7 +12,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
-  active_query!
+  active-query!
   rake (~> 13.0)
 
 BUNDLED WITH
