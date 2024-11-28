@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    matias (0.1.0)
+    active_query (0.2.0)
 
 GEM
   remote: https://rubygems.org/
@@ -12,7 +12,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
-  matias!
+  active_query!
   rake (~> 13.0)
 
 BUNDLED WITH

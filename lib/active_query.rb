@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-class Matias
+class ActiveQuery
   VERSION = "0.2.0"
-  def self.is
-    'Awesome!'
+  def self.hi
+    'Hello World!'
   end
 end
