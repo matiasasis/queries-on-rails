@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class ActiveQuery
-  VERSION = "0.2.0"
+  VERSION = "0.1.0"
   def self.hi
     'Hello World!'
   end

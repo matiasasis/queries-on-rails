@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    active_query (0.2.0)
+    active_query (0.1.0)
 
 GEM
   remote: https://rubygems.org/
