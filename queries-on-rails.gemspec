@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/active_query"
+require_relative "lib/queries_on_rails"
 
 Gem::Specification.new do |spec|
   spec.name = "active-query"
-  spec.version = ActiveQuery::VERSION
+  spec.version = QueriesOnRails::VERSION
   spec.authors = ["Matias Asis"]
   spec.email = ["matiasis.90@gmail.com"]
   spec.summary = "This is active-query"
